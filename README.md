@@ -1,4 +1,8 @@
-# WiFI-Nugget-Cases
-3D files for WiFi Nugget enclosures + cases
+# WiFi Nugget Cases
+3D files for WiFi Nugget enclosures & cases!
 
-SnapFit cases may have to be re-scaled in the xy dimensions to compensate for shrinking! Recommended scale is 101% for the case and 101.5% for the faceplate.
+## How to Print
+The models are dimensionally accurate, but your filament may shrink!  We recommend printing the `FACEPLATE` and `ENCLOSURE` designs scaled at 101% in the X/Y dimensions.  `DPAD` can be printed at the normal size since button play is acceptable.
+
+## Models
+You can find the CAD files for the RubberNugget "GameBoy" design under the `Developer-Kit` folder.
