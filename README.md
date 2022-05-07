@@ -6,3 +6,8 @@ The models are dimensionally accurate, but your filament may shrink!  We recomme
 
 ## Models
 You can find the CAD files for the RubberNugget "GameBoy" design under the `Developer-Kit` folder.
+
+## Future Features
+- [ ] Boot / Reset Button
+- [ ] SMD Case Design: Acrylic
+- [ ] SMD Case Design: Injection Mold
